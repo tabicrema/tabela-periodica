@@ -1,0 +1,53 @@
+body{
+    font-family: verdana;
+    font-size: 20px;
+    background-color: #f7f7f7;
+}
+h1{
+    color:black;
+}
+h3{
+    font-family: verdana;
+    color:black bold;
+    
+}
+.img{
+ width: 60px;
+ height: 60px;
+}
+.img2{
+    width:70%;
+    height:100%;
+}
+.img3{
+    width:80%;
+    height:70%;
+}
+.img4{
+    width:80%;
+    height: 80%;
+}
+.img6{
+    width:70%;
+    height:70%;
+}
+
+
+
+.bg-hex{
+    color:black;
+    background-color:#000000;
+}
+.elemento{
+    font-family: verdana;
+    color:black;
+    font-size: 15px;
+
+}
+.texto{
+    font-family: verdana;
+    font-size: 20px;
+    color:black;
+    
+
+}
